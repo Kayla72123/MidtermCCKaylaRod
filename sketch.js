@@ -20,6 +20,7 @@ function setup() {
 
 function draw() {
   background(0);
+ print("hi");
 
   position.add(velocity);
 
