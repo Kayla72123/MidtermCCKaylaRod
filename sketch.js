@@ -13,6 +13,7 @@ function setup() {
   stroke(255);
   strokeWeight(2);
   fill(127,127);
+  print("hi");
 
 
 }
